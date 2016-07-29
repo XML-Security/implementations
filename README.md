@@ -4,15 +4,19 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 ## Language-specific
 ### Python
 * https://github.com/kislyuk/signxml
+* https://github.com/onelogin/python-saml
 
 ### Ruby
 * https://github.com/benoist/xmldsig
+* https://github.com/onelogin/ruby-saml
 
 ### PHP
 * https://github.com/robrichards/xmlseclibs
+* https://github.com/onelogin/php-saml
 
 ### Java
 * http://santuario.apache.org/ (https://github.com/apache/santuario-java)
+* https://github.com/onelogin/java-saml
 
 ### C/C++
 * https://www.aleksey.com/xmlsec/ (https://github.com/lsh123/xmlsec)
