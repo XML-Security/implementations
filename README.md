@@ -6,6 +6,7 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 * https://github.com/kislyuk/signxml
 
 ### Ruby
+* https://github.com/benoist/xmldsig
 
 ### PHP
 * https://github.com/robrichards/xmlseclibs
