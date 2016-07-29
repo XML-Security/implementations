@@ -15,7 +15,7 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 * http://santuario.apache.org/ (https://github.com/apache/santuario-java)
 
 ### C/C++
-* https://github.com/lsh123/xmlsec
+* https://www.aleksey.com/xmlsec/ (https://github.com/lsh123/xmlsec)
 
 ## Standards and related documents
 * [List of W3C XML Signature standards and drafts](http://www.w3.org/TR/#tr_XML_Signature)
