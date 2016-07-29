@@ -1,13 +1,18 @@
 # awesome-xmlsec
 A curated list of XML Signature, XML Encryption, SAML and other XML Security related libraries and projects
+
 ## Language-specific
 ### Python
 * https://github.com/kislyuk/signxml
+
 ### Ruby
+
 ### PHP
 * https://github.com/robrichards/xmlseclibs
+
 ### Java
 * http://santuario.apache.org/ (https://github.com/apache/santuario-java)
+
 ### C/C++
 * https://github.com/lsh123/xmlsec
 
