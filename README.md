@@ -23,6 +23,7 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 
 ### Javascript
 * https://github.com/yaronn/xml-crypto
+* https://github.com/Clever/saml2
 
 ## Standards and related documents
 * [List of W3C XML Signature standards and drafts](http://www.w3.org/TR/#tr_XML_Signature)
