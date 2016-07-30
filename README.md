@@ -10,6 +10,10 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 * https://github.com/benoist/xmldsig
 * https://github.com/onelogin/ruby-saml
 
+### Javascript
+* https://github.com/yaronn/xml-crypto
+* https://github.com/Clever/saml2
+
 ### PHP
 * https://github.com/robrichards/xmlseclibs
 * https://github.com/onelogin/php-saml
@@ -20,10 +24,6 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 
 ### C/C++
 * https://www.aleksey.com/xmlsec/ (https://github.com/lsh123/xmlsec)
-
-### Javascript
-* https://github.com/yaronn/xml-crypto
-* https://github.com/Clever/saml2
 
 ## Standards and related documents
 * [List of W3C XML Signature standards and drafts](http://www.w3.org/TR/#tr_XML_Signature)
