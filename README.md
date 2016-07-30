@@ -39,3 +39,4 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 
 #### Other resources
 * [XMLSec: Related links](https://www.aleksey.com/xmlsec/related.html)
+* [OWASP SAML Security Cheat Sheet](https://www.owasp.org/index.php/SAML_Security_Cheat_Sheet)
