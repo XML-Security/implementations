@@ -41,6 +41,9 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 * [W3C Recommendation: XML Encryption Syntax and Processing Version 1.1](https://www.w3.org/TR/xmlenc-core1/)
 * [W3C Working Group Note: Test cases for XML Encryption 1.1](https://www.w3.org/TR/xmlenc-core1-testcases/)
 
+#### SAML
+* [SAML Wiki](https://wiki.oasis-open.org/security) (includes SAML standard specification)
+
 #### Other resources
 * [XMLSec: Related links](https://www.aleksey.com/xmlsec/related.html)
 * [OWASP SAML Security Cheat Sheet](https://www.owasp.org/index.php/SAML_Security_Cheat_Sheet)
