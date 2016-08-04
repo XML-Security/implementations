@@ -5,8 +5,8 @@ XML Encryption, and SAML, as well as reference documentation resources.
 
 # Purpose of this project
 
-The [XML Security](https://github.com/XML-Security) project serves as a collaboration platform for developing and sharing
-information about the aforementioned security-related XML standards.
+The [XML Security](https://github.com/XML-Security) project serves as a collaboration platform for developing implementations
+and sharing information about the aforementioned security-related XML standards.
 
 # Contributing to this repository
 
