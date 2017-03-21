@@ -25,6 +25,10 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 ### C/C++
 * https://www.aleksey.com/xmlsec/ (https://github.com/lsh123/xmlsec)
 
+### Go
+* https://github.com/russellhaering/goxmldsig
+* https://github.com/russellhaering/gosaml2
+
 ## Standards and related documents
 * [List of W3C XML Signature standards and drafts](http://www.w3.org/TR/#tr_XML_Signature)
 * [W3C Working Group Note: XML Security 2.0 Requirements and Design Considerations](https://www.w3.org/TR/2013/NOTE-xmlsec-reqs2-20130411/)
