@@ -13,6 +13,7 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 ### Javascript
 * https://github.com/yaronn/xml-crypto
 * https://github.com/Clever/saml2
+* https://github.com/auth0/node-xml-encryption
 
 ### PHP
 * https://github.com/robrichards/xmlseclibs
