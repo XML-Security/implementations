@@ -48,6 +48,7 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 
 #### SAML
 * [SAML Wiki](https://wiki.oasis-open.org/security) (includes SAML standard specification)
+* [Okta SAML documentation](https://developer.okta.com/standards/SAML/index)
 * [OWASP SAML Security Cheat Sheet](https://www.owasp.org/index.php/SAML_Security_Cheat_Sheet)
 
 #### Other resources
