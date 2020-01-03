@@ -41,6 +41,7 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 * [W3C Working Group Note: XML Signature Best Practices](http://www.w3.org/TR/xmldsig-bestpractices/)
 * [XML-Signature Interoperability](http://www.w3.org/Signature/2001/04/05-xmldsig-interop.html)
 * [W3C Working Group Note: Test Cases for C14N 1.1 and XMLDSig Interoperability](http://www.w3.org/TR/xmldsig2ed-tests/)
+* [W3C Working Group Note: XML Advanced Electronic Signatures (XAdES)](https://www.w3.org/TR/XAdES/)
 
 #### XML Encryption
 * [W3C Recommendation: XML Encryption Syntax and Processing Version 1.1](https://www.w3.org/TR/xmlenc-core1/)
@@ -53,3 +54,4 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 
 #### Other resources
 * [XMLSec: Related links](https://www.aleksey.com/xmlsec/related.html)
+* [European Union: eSignature Documentation](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Documentation+eSignature)
