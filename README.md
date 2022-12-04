@@ -18,6 +18,8 @@ A curated list of XML Signature, XML Encryption, SAML and other XML Security rel
 ### PHP
 * https://github.com/robrichards/xmlseclibs
 * https://github.com/onelogin/php-saml
+* https://github.com/simplesamlphp/xml-security
+* https://github.com/simplesamlphp/saml2
 
 ### Java
 * http://santuario.apache.org/ (https://github.com/apache/santuario-java)
